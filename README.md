@@ -1,11 +1,12 @@
-# Hi there! 👋 I'm Natalia
-
-Welcome to my GitHub profile! After 12 successful years in finance, I'm diving into the world of web development, where I aim to create user-friendly applications that make everyday life easier. Here's a bit more about me and my journey:
+# Hi there! 👋 
+I'm Natalia, a junior full-stack developer based in Copenhagen, Denmark
+---
 
 ## 👩‍💻 About Me
 
 -  🚀 I’m currently available to join a project! 
 -  🎓 I gained solid web development knowledge at [HackYourFuture](https://www.hackyourfuture.net/](https://github.com/HackYourFuture-CPH)).
+-  🌱 My goal is to create user-friendly applications that make everyday life easier.
 -  🏃🏻‍♀ As an avid runner, I embrace persistence on the trail and in coding, knowing the importance of discipline and pushing through challenges.
 
 ## 🤝 Connect with Me
