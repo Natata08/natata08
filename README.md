@@ -11,8 +11,12 @@ I'm Natalia, a junior full-stack developer based in Copenhagen, Denmark
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-lapina/)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lapinann08@gmail.com)
+<a href="https://www.linkedin.com/in/natalia-lapina/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="height: 30px; width: 30px;">
+</a>
+<a href="mailto:lapinann08@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" style="height: 30px; width: 30px;">
+</a>
 
 ## 🛠️ My Favourite Tools
 
