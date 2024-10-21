@@ -18,7 +18,15 @@ I'm Natalia, a junior full-stack developer based in Copenhagen, Denmark
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green)
 
+## 📍 Projects
+
+Here are some of the key projects I've worked on:
+
+### Project 1: [FoodFriends](https://github.com/Natata08/meal-sharing)
+-  **Description:** This is a full-stack web app designed to connect food enthusiasts, allowing them to share meals and experiences.
+-  **Tech Stack:** React, Next.js, node.js, Express.js, KnexJS, MySQL, AWS S3
+
 
 ## 🤝 Connect with Me
 
-<a href="https://www.linkedin.com/in/natalia-lapina/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="height: 40px; width: 40px;"></a><a href="mailto:lapinann08@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" style="height: 40px; width: 40px;"></a>
+<a href="https://www.linkedin.com/in/natalia-lapina/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="height: 35px; width: 35px;"></a><a href="mailto:lapinann08@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" style="height: 35px; width: 35px;"></a>
