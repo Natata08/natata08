@@ -6,13 +6,12 @@ Welcome to my GitHub profile! After 12 successful years in finance, I'm diving i
 
 -  🚀 I’m currently available to join a project! 
 -  🎓 I gained solid web development knowledge at [HackYourFuture](https://www.hackyourfuture.net/](https://github.com/HackYourFuture-CPH)).
+-  🏃🏻‍♀ As an avid runner, I embrace persistence on the trail and in coding, knowing the importance of discipline and pushing through challenges.
 
 ## 🤝 Connect with Me
 
-<a href="https://www.linkedin.com/in/natalia-lapina/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:lapinann08@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-lapina/)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lapinann08@gmail.com)
 
 ## 🛠️ My Favourite Tools
 
