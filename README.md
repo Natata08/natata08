@@ -24,4 +24,4 @@ Welcome to my GitHub profile! After 12 successful years in finance, I'm diving i
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green)
 
 
-Feel free to explore my projects and get in touch if you'd like to collaborate or learn more about my work. Thank you for visiting!
+Feel free to explore my projects and get in touch if you'd like to collaborate or learn more about my work.
