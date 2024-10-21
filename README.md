@@ -9,8 +9,8 @@ Welcome to my GitHub profile! After 12 successful years in finance, I'm diving i
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-lapina/)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat&logo=gmail&logoColor=white)](mailto:lapinann08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-lapina/)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lapinann08@gmail.com)
 
 
 ## 🛠️ My Favourite Tools
