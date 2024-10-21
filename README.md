@@ -6,7 +6,7 @@
 -  🚀 I’m currently available to join a project! 
 -  🎓 I gained solid web development knowledge at [HackYourFuture](https://www.hackyourfuture.net/](https://github.com/HackYourFuture-CPH)).
 -  🌱 My goal is to create user-friendly applications that make everyday life easier.
--  🏃🏻‍♀ As an avid runner, I embrace persistence on the trail and in coding, knowing the importance of discipline and pushing through challenges.
+-  🏃🏻‍♀ As an avid runner, I understand the importance of persistence, both on the trail and in coding.
 
 ## 🛠️ My Favourite Tools
 
@@ -24,7 +24,7 @@ Here are some of the key projects I've worked on:
 
 ### Project 1: [FoodFriends](https://github.com/Natata08/meal-sharing)
 -  **Description:** This is a full-stack web app designed to connect food enthusiasts, allowing them to share meals and experiences.
--  **Tech Stack:** React, Next.js, node.js, Express.js, KnexJS, MySQL, AWS S3
+-  **Tech Stack:** React, Next.js, Node.js, Express.js, KnexJS, MySQL, Material-UI, AWS S3
 
 
 ## 🤝 Connect with Me
