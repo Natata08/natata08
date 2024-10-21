@@ -9,15 +9,6 @@ I'm Natalia, a junior full-stack developer based in Copenhagen, Denmark
 -  🌱 My goal is to create user-friendly applications that make everyday life easier.
 -  🏃🏻‍♀ As an avid runner, I embrace persistence on the trail and in coding, knowing the importance of discipline and pushing through challenges.
 
-## 🤝 Connect with Me
-
-<a href="https://www.linkedin.com/in/natalia-lapina/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="height: 30px; width: 30px;">
-</a>
-<a href="mailto:lapinann08@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" style="height: 30px; width: 30px;">
-</a>
-
 ## 🛠️ My Favourite Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
@@ -29,4 +20,11 @@ I'm Natalia, a junior full-stack developer based in Copenhagen, Denmark
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green)
 
 
-Feel free to explore my projects and get in touch if you'd like to collaborate or learn more about my work.
+## 🤝 Connect with Me
+
+<a href="https://www.linkedin.com/in/natalia-lapina/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="height: 30px; width: 30px;">
+</a>
+<a href="mailto:lapinann08@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" style="height: 30px; width: 30px;">
+</a>
