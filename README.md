@@ -1,6 +1,5 @@
 # Hi there! 👋 
 I'm Natalia, a junior full-stack developer based in Copenhagen, Denmark
----
 
 ## 👩‍💻 About Me
 
@@ -23,8 +22,8 @@ I'm Natalia, a junior full-stack developer based in Copenhagen, Denmark
 ## 🤝 Connect with Me
 
 <a href="https://www.linkedin.com/in/natalia-lapina/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="height: 30px; width: 30px;">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="height: 40px; width: 40px;">
 </a>
 <a href="mailto:lapinann08@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" style="height: 30px; width: 30px;">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" style="height: 40px; width: 40px;">
 </a>
