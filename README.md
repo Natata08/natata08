@@ -26,6 +26,9 @@ Here are some of the key projects I've worked on:
 -  **Description:** This is a full-stack web app designed to connect food enthusiasts, allowing them to share meals and experiences.
 -  **Tech Stack:** React, Next.js, Node.js, Express.js, KnexJS, MySQL, Material-UI, AWS S3
 
+### Project 2: [ApplicationHub](https://github.com/Natata08/application-hub)
+-  **Description:** This is a full-stack job application tracking platform for active job seekers. It features user authentication, detailed application records, search functionality, and interview tracking.
+-  **Tech Stack:** React, Next.js, Node.js, Express.js, KnexJS, Postgres, Material-UI
 
 ## 🤝 Connect with Me
 
